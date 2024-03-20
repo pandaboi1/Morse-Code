@@ -1,5 +1,5 @@
 <!--
-Hey, thanks for using the awesome-readme-template template.  
+Hey, thanks for using the Morse-Code template.  
 If you have any enhancements, then fork this project and create a pull request 
 or just open an issue with the label "enhancement".
 
@@ -8,44 +8,44 @@ Maybe you can mention me or this repo in the acknowledgements too
 -->
 <div align="center">
 
-  <img src="/logoGoesHere" alt="logo" width="200" height="auto" />
   <h1>Morse Code</h1>
+  <img src="images/Morse-Code.jpg" alt="logo" width="200" height="auto" />
   
   <p>
-    An awesome README template for your projects! 
+    Covert <b>Text</b> Into <b>Morse Code</b>,<br><b>Morse code</b> Into <b>Text</b> 
   </p>
   
   
 <!-- Badges -->
 <p>
-  <a href="https://github.com/Louis3797/awesome-readme-template/graphs/contributors">
-    <img src="https://img.shields.io/github/contributors/Louis3797/awesome-readme-template" alt="contributors" />
+  <a href="https://github.com/pandaboi1/Morse-Code/graphs/contributors">
+    <img src="https://img.shields.io/github/contributors/pandaboi1/Morse-Code" alt="contributors" />
   </a>
   <a href="">
-    <img src="https://img.shields.io/github/last-commit/Louis3797/awesome-readme-template" alt="last update" />
+    <img src="https://img.shields.io/github/last-commit/pandaboi1/Morse-Code" alt="last update" />
   </a>
-  <a href="https://github.com/Louis3797/awesome-readme-template/network/members">
-    <img src="https://img.shields.io/github/forks/Louis3797/awesome-readme-template" alt="forks" />
+  <a href="https://github.com/pandaboi1/Morse-Code/network/members">
+    <img src="https://img.shields.io/github/forks/pandaboi1/Morse-Code" alt="forks" />
   </a>
-  <a href="https://github.com/Louis3797/awesome-readme-template/stargazers">
-    <img src="https://img.shields.io/github/stars/Louis3797/awesome-readme-template" alt="stars" />
+  <a href="https://github.com/pandaboi1/Morse-Code/stargazers">
+    <img src="https://img.shields.io/github/stars/pandaboi1/Morse-Code" alt="stars" />
   </a>
-  <a href="https://github.com/Louis3797/awesome-readme-template/issues/">
-    <img src="https://img.shields.io/github/issues/Louis3797/awesome-readme-template" alt="open issues" />
+  <a href="https://github.com/pandaboi1/Morse-Code/">
+    <img src="https://img.shields.io/github/issues/pandaboi1/Morse-Code" alt="open issues" />
   </a>
-  <a href="https://github.com/Louis3797/awesome-readme-template/blob/master/LICENSE">
-    <img src="https://img.shields.io/github/license/Louis3797/awesome-readme-template.svg" alt="license" />
+  <a href="https://github.com/pandaboi1/Morse-Code/blob/master/LICENSE">
+    <img src="https://img.shields.io/github/license/pandaboi1/Morse-Code.svg" alt="license" />
   </a>
 </p>
    
 <h4>
-    <a href="https://github.com/Louis3797/awesome-readme-template/">View Demo</a>
+    <a href="https://github.com/pandaboi1/Morse-Code/">View Demo</a>
   <span> · </span>
-    <a href="https://github.com/Louis3797/awesome-readme-template">Documentation</a>
+    <a href="https://github.com/pandaboi1/Morse-Code">Documentation</a>
   <span> · </span>
-    <a href="https://github.com/Louis3797/awesome-readme-template/issues/">Report Bug</a>
+    <a href="https://github.com/pandaboi1/Morse-Code/issues">Report Bug</a>
   <span> · </span>
-    <a href="https://github.com/Louis3797/awesome-readme-template/issues/">Request Feature</a>
+    <a href="https://github.com/pandaboi1/Morse-Code/issues">Request Feature</a>
   </h4>
 </div>
 
@@ -200,7 +200,7 @@ To run tests, run the following command
 Clone the project
 
 ```bash
-  git clone https://github.com/Louis3797/awesome-readme-template.git
+  git clone https://github.com/pandaboi1/Morse-Code.git
 ```
 
 Go to the project directory
@@ -256,8 +256,8 @@ function App() {
 <!-- Contributing -->
 ## :wave: Contributing
 
-<a href="https://github.com/Louis3797/awesome-readme-template/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=Louis3797/awesome-readme-template" />
+<a href="https://github.com/pandaboi1/Morse-Code/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=pandaboi1/Morse-Code" />
 </a>
 
 
@@ -269,7 +269,7 @@ See `contributing.md` for ways to get started.
 <!-- Code of Conduct -->
 ### :scroll: Code of Conduct
 
-Please read the [Code of Conduct](https://github.com/Louis3797/awesome-readme-template/blob/master/CODE_OF_CONDUCT.md)
+Please read the [Code of Conduct](https://github.com/pandaboi1/Morse-Code/blob/master/CODE_OF_CONDUCT.md)
 
 <!-- FAQ -->
 ## :grey_question: FAQ
@@ -296,7 +296,7 @@ Distributed under the no License. See LICENSE.txt for more information.
   - Email: sernaedwin0@gmail.com
   - Instagram: [@eden.moji](https://www.instagram.com/eden.moji/)
 
-Project Link: [https://github.com/Louis3797/awesome-readme-template](https://github.com/Louis3797/awesome-readme-template)
+Project Link: [https://github.com/pandaboi1/Morse-Code](https://github.com/pandaboi1/Morse-Code)
 
 
 <!-- Acknowledgments -->
