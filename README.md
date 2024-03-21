@@ -15,6 +15,7 @@ Maybe you can mention me or this repo in the acknowledgements too
     Covert <b>Text</b> Into <b>Morse Code</b>,<br><b>Morse code</b> Into <b>Text</b> 
   </p>
   
+  
 <!-- Badges -->
 <p>
   <a href="https://github.com/pandaboi1/Morse-Code/graphs/contributors">
@@ -44,11 +45,14 @@ Maybe you can mention me or this repo in the acknowledgements too
   <span> · </span>
     <a href="https://github.com/pandaboi1/Morse-Code/issues">Report Bug</a>
   <span> · </span>
-    <a href="https://github.com/pandaboi1/Morse-Code/issues">Request Feature</a>
+    <a href="https://github.com/pan<daboi1/Morse-Code/issues">Request Feature</a>
   </h4>
+  
+  <a href="https://github.com/users/pandaboi1/projects/3">Project Page</a>
 </div>
 
 <br />
+
 
 <!-- Table of Contents -->
 # :notebook_with_decorative_cover: Table of Contents
