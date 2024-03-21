@@ -1,11 +1,11 @@
 # Morse Code 
 ## Table of Contents
-- [Leaning Alphabet](#Learning-Morse-Code)
-- [Reading Morse Code](#Reading-Morse-Code)
-- [Hearing Morse Code](#Hearing-Morese-Code)
-- [Creating Sentences](#Creating-Sentences) 
-- [Resources](#Resources)
-- [Project](#Project)
+- [Leaning Alphabet](#leaning-morse-code)
+- [Reading Morse Code](#reading-morse-code)
+- [Hearing Morse Code](#hearing-morse-code)
+- [Creating Sentences](#creating-sentences) 
+- [Resources](#resources)
+- [Project](#project)
 ---
 ## Leaning Morse Code
 | Text | Morse Code |
