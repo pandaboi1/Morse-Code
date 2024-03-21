@@ -1,11 +1,26 @@
 # Morse Code 
 ## Table of Contents
+- [Project](#project)
 - [Leaning Alphabet](#leaning-morse-code)
 - [Reading Morse Code](#reading-morse-code)
 - [Hearing Morse Code](#hearing-morse-code)
 - [Creating Sentences](#creating-sentences) 
-- [Resources](#resources)
-- [Project](#project)
+- [Resources](#online-resources)
+
+<br>
+
+---
+
+# Project
+OBJECTIVE: This project should teach you how to solve a real world task that was once done by hand into a swift computer program. 
+
+TASK: Create a program that converts inputted text and into text based Morse Code. This can be written in any language but it needs to be Efficient and Light (time and space constraint) so it can be run on almost any system. 
+
+### Optional End Tasks:
+- When program is 'complete', make a program that can take the outputted Morse Code into an Audio output using any preferred method. Make sure to document your materials used and pictures  of the process/outcome. 
+- Create or implement a program that can take speech input converting it into English text and using the converted English text to be the initial input of the Morse Code converter. 
+- Create a program to convert Morse Code into English text in real time or convert after inputting a group of texts. 
+
 ---
 ## Leaning Morse Code
 | Text | Morse Code |
@@ -139,19 +154,9 @@
 - 
 
 --- 
-## Resources
+## Online Resources
 [https://www.learnmorsecode.com](https://www.learnmorsecode.com)
 
---- 
-# Project
-OBJECTIVE: This project should teach you how to solve a real world task that was once done by hand into a swift computer program. 
-
-TASK: Create a program that converts inputted text and into text based Morse Code. This can be written in any language but it needs to be Efficient and Light (time and space constraint) so it can be run on almost any system. 
-
-### Optional End Tasks:
-- When program is 'complete', make a program that can take the outputted Morse Code into an Audio output using any preferred method. Make sure to document your materials used and pictures  of the process/outcome. 
-- Create or implement a program that can take speech input converting it into English text and using the converted English text to be the initial input of the Morse Code converter. 
-- Create a program to convert Morse Code into English text in real time or convert after inputting a group of texts. 
 
 ---
 end of README
