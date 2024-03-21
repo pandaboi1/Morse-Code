@@ -9,6 +9,8 @@ Maybe you can mention me or this repo in the acknowledgements too
 <div align="center">
 
   <h1>Morse Code</h1>
+  
+  <h2>⭐<a href="https://github.com/users/pandaboi1/projects/3">Project Page Here</a>⭐</h2>
   <img src="images/Morse-Code.jpg" alt="logo" width="200" height="auto" />
   
   <p>
@@ -48,7 +50,6 @@ Maybe you can mention me or this repo in the acknowledgements too
     <a href="https://github.com/pan<daboi1/Morse-Code/issues">Request Feature</a>
   </h4>
   
-  <a href="https://github.com/users/pandaboi1/projects/3">Project Page</a>
 </div>
 
 <br />
