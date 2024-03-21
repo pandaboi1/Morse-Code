@@ -15,7 +15,6 @@ Maybe you can mention me or this repo in the acknowledgements too
     Covert <b>Text</b> Into <b>Morse Code</b>,<br><b>Morse code</b> Into <b>Text</b> 
   </p>
   
-  
 <!-- Badges -->
 <p>
   <a href="https://github.com/pandaboi1/Morse-Code/graphs/contributors">
