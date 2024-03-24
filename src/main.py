@@ -28,6 +28,7 @@ def main():
     while not valid:
         message = input()
         valid = Validate(message)
+        if ('')
         
     print(Encript(message))
         
