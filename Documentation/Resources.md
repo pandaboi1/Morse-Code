@@ -129,8 +129,8 @@ TASK: Create a program that converts inputted text and into text based Morse Cod
 
 --- 
 ## Online Resources
-[https://www.learnmorsecode.com](https://www.learnmorsecode.com)
-
+[https://www.learnmorsecode.com](https://www.learnmorsecode.com)\
+[https://builtin.com/articles/name-python](https://builtin.com/articles/name-python)
 
 ---
 end of README
