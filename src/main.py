@@ -27,12 +27,10 @@ def encription(inputedMessage):
     encrypted = ''
     for letter in inputedMessage:
         if letter != ' ':
-            encrypted += morse_code[letter] + ' '
+            encrypted += morse_code[letter]
         else:
             encrypted += ' '
-    return encrypted
-    
-    
+    return encrypted    
 
 message = input()
 print(encription(message.upper()))
