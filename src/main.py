@@ -27,7 +27,7 @@ def encription(inputedMessage):
     encrypted = ''
     for letter in inputedMessage:
         if letter != morse_code[letter]:
-            print("\nCharacter", morse_code[letter], "is not valid!")
+            print("\nCharacter", inputedMessage, "is not valid!")
             break
         if letter != ' ':
             encrypted += morse_code[letter]
@@ -35,5 +35,6 @@ def encription(inputedMessage):
             encrypted += ' '
     return encrypted    
 
-message = input()
-print(encription(message.upper()))
+def main():
+    message = input()
+    print(encription(message.upper()))
