@@ -27,11 +27,19 @@ def Encrypt(inLetter):
     return encryptedLetters
 
 def main():
+<<<<<<< HEAD
     Encrypted_message = ""
     print("Input your message:\n\t")
     while True:
         # Read a single character from standard input without waiting for enter
         letter = sys.stdin.read(1)
+=======
+    valid = False
+    while not valid:
+        message = input()
+        valid = Validate(message)
+        if ('')
+>>>>>>> 07e5f85fe8d8249c9245c8f0bc9cc0bc296c180a
         
         # Check if the character is a newline character, indicating end of input
         if letter == '\n' or letter.lower == "exit":

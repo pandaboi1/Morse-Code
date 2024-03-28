@@ -8,7 +8,6 @@
 - [Resources](#online-resources)
 
 <br>
-
 ---
 
 # Project
