@@ -10,7 +10,8 @@ TASK: Take user input from user and convert it into corresesponding Morse Code o
 ### Objectives:
 - [ ] Make an option to **take** user input in the terminal
 - [ ] Output the corresponding Morse Code for inputed character.
-- [ ] Split input into sections depending on category (letters, numbers, and symbols)
+- [ ] Validate input (letters, numbers, and symbols)
+- [ ] Spell check the input
 
 ### Notes: 
 Make sure to *ignore capitalization* for letters and ignore *invalid characters*.
